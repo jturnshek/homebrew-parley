@@ -1,6 +1,6 @@
 cask "parley" do
-  version "2026.9.1-3"
-  sha256 "c11a51aadb5ea96eade5cbcf1295a9600f670b0cbc4bbb3ebf6a618e0af96083"
+  version "2026.9.2-1"
+  sha256 "f6bcda36d1d57b6ae9b531cd8425f4c8c8171dc016a69a844c743083d7e2c430"
 
   url "https://downloads.parley.im/parley/releases/v#{version}/darwin-arm64/parley-#{version}-darwin-arm64.tar.gz"
   name "Parley"
